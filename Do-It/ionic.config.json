@@ -1,0 +1,7 @@
+{
+  "name": "Do-It",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
